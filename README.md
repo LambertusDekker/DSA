@@ -1,3 +1,3 @@
 # its the readme
 
-deze tekst is gemaakt op de laptop
+[DSA](https://github.com/bollwarm/DataStructuresAlgorithms)
