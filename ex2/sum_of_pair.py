@@ -1,10 +1,7 @@
 # Find a pair with the given sum in an array.
 
 def main():
-
-    
-    
-
+    print("test!")
 
 
 if __name__ == "__main__":
