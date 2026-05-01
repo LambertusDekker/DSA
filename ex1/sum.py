@@ -13,3 +13,6 @@ def remainder(n):
 
 if __name__ == "__main__":
     main()
+
+#
+# https://www.geeksforgeeks.org/dsa/check-whether-given-number-even-odd/
